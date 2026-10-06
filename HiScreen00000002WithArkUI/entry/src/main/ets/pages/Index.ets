@@ -1,7 +1,7 @@
 import { window } from '@kit.ArkUI';
 
 @Entry
-@Component
+@ComponentV2
 struct Index {
 
   onPageShow() {
