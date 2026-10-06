@@ -2,7 +2,7 @@ Open-sourced under the Apache 2.0 licnese
 
 ## 文档地址
 
-https://www.hicode.online/zh/posts/screen00000001/
+https://www.hicode.online/zh/posts/screen00000002/
 
 ## ❤ 支持开源
 
